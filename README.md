@@ -1,2 +1,1 @@
-# project24nand.github.com
-proect 24 
+# project-C24-template
